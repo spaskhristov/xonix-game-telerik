@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XonixGame", "Xonix\XonixGame.csproj", "{7EC7BA9D-8F62-4BA7-BAA2-1423F4E2A55F}"
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 1
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://xonix.visualstudio.com/defaultcollection
+		SccProjectUniqueName0 = Xonix\\XonixGame.csproj
+		SccProjectName0 = Xonix
+		SccAuxPath0 = https://xonix.visualstudio.com/defaultcollection
+		SccLocalPath0 = Xonix
+		SccProvider0 = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7EC7BA9D-8F62-4BA7-BAA2-1423F4E2A55F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7EC7BA9D-8F62-4BA7-BAA2-1423F4E2A55F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7EC7BA9D-8F62-4BA7-BAA2-1423F4E2A55F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7EC7BA9D-8F62-4BA7-BAA2-1423F4E2A55F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
